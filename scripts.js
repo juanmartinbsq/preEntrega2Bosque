@@ -13,7 +13,7 @@ function eleccion(jugada) {
     }
     return resultado
     }
-    // 1 es piedra, 2 es papel, 3 es tijera
+    // 1 es piedra, 2 es papel, 3 es tijera.
     let jugador = 0
     let pc = 0 
     let triunfos = 0
